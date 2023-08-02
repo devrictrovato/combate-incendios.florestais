@@ -2,7 +2,7 @@
 
 ![FirePrevention](https://github.com/devrictrovato/ForestFirePrevention/assets/66500781/e60017cf-6b58-4469-8a2c-3f35c0901705)
 
-Este repositório propõe um modelo de Machine Learning baseado em uma base de dados do ![INPE](https://queimadas.dgi.inpe.br/queimadas/bdqueimadas) desenvolvido para ajudar na prevenção de incêndios florestais. O sistema utiliza técnicas padronizadas de detecção de fogo e monitoramento ambiental para alertar sobre possíveis incêndios em áreas florestais.
+Este repositório propõe um modelo de Machine Learning baseado em uma base de dados do [INPE](https://queimadas.dgi.inpe.br/queimadas/bdqueimadas) desenvolvido para ajudar na prevenção de incêndios florestais. O sistema utiliza técnicas padronizadas de detecção de fogo e monitoramento ambiental para alertar sobre possíveis incêndios em áreas florestais.
 
 ## Visão Geral
 
