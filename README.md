@@ -74,8 +74,6 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](h
 
 Para mais informações sobre o projeto ou para relatar problemas, entre em contato com o desenvolvedor:
 
-Nome: [Ricardo O. Trovato](https://github.com/devrictrovato)
-
 E-mail: devrictrovato@gmail.com
 
 LinkedIn: [Ricardo O. Trovato](https://www.linkedin.com/in/ricardo-de-oliveira-trovato/)
