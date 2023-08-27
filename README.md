@@ -38,32 +38,6 @@ cd ForestFirePrevention
 Jupyter Notebooks: FIT -> Analytics -> Dataset -> Models -> Evaluation
 ```
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga os passos abaixo:
-
-1. Faça um fork deste repositório para o seu perfil.
-
-2. Crie uma nova branch com o nome da sua feature ou correção:
-
-```
-git checkout -b <nome-da-sua-branch>
-```
-
-3. Faça as modificações desejadas e faça commits explicativos:
-
-```
-git commit -m "Adicionar funcionalidade X" 
-```
-
-4. Envie as alterações para o seu repositório remoto:
-
-```
-git push origin <nome-da-sua-branch>
-```
-
-5. Abra um Pull Request neste repositório, descrevendo as mudanças propostas.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/devrictrovato/Combate-Aos-Incendios-Florestais/blob/main/LICENSE) para obter mais detalhes.
